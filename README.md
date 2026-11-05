@@ -69,28 +69,46 @@ Display the original image and all filtered images using Matplotlib in a grid la
 ## Output
 
 ### 1. Averaging Filter
-- Original image is displayed.
+
 - Averaging filter produces a blurred image by averaging neighboring pixels.
 
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/61c72cfa-0a6b-4284-bbf4-9c29a06493ef" />
+
+
 ### 2. Weighted Averaging Filter
-- Original image is displayed.
+
 - Weighted averaging provides a smoother result using a custom kernel.
 
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/3b6aa632-e5fd-4e4d-874a-7564a02a3555" />
+
+
 ### 3. Gaussian Filter
-- Original image is displayed.
+
 - Gaussian filter reduces noise while preserving important image features.
 
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/8468e2ac-d7af-4a0b-ad0e-1634caa3a1eb" />
+
+
 ### 4. Median Filter
-- Original image is displayed.
+
 - Median filter removes salt-and-pepper noise effectively.
 
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/26e1287d-a68d-4700-9a97-087644de4731" />
+
+
 ### 5. Laplacian Sharpening Using Kernel
-- Original image is displayed.
+
 - Laplacian kernel enhances edges and fine details.
 
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/6e42e3a8-828b-459a-b896-fb8f3d3635a1" />
+
+
 ### 6. Laplacian Operator
-- Original image is displayed.
+
 - Laplacian operator detects edges clearly in grayscale.
+
+<img width="571" height="378" alt="image" src="https://github.com/user-attachments/assets/da8ea425-4cc8-4898-87f8-c83aad0c9f20" />
+
 
 ## Result
 
